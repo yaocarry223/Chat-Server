@@ -1,0 +1,10 @@
+/home/ubantu/c++/集群聊天服务器/build/CMakeFiles/edit_cache.dir
+/home/ubantu/c++/集群聊天服务器/build/CMakeFiles/rebuild_cache.dir
+/home/ubantu/c++/集群聊天服务器/build/src/CMakeFiles/edit_cache.dir
+/home/ubantu/c++/集群聊天服务器/build/src/CMakeFiles/rebuild_cache.dir
+/home/ubantu/c++/集群聊天服务器/build/src/server/CMakeFiles/Chatserver.dir
+/home/ubantu/c++/集群聊天服务器/build/src/server/CMakeFiles/edit_cache.dir
+/home/ubantu/c++/集群聊天服务器/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/ubantu/c++/集群聊天服务器/build/src/client/CMakeFiles/ChatClient.dir
+/home/ubantu/c++/集群聊天服务器/build/src/client/CMakeFiles/edit_cache.dir
+/home/ubantu/c++/集群聊天服务器/build/src/client/CMakeFiles/rebuild_cache.dir
